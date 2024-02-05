@@ -19,4 +19,10 @@ year = {2024}
 ## Getting Started
 This code was written in Julia 1.8.4 and has not been tested for compatability with newer versions of Julia. If you run into trouble using the current Julia release, v1.8.4 can be donwloaded from the [old releases page](https://julialang.org/downloads/oldreleases/). 
 
-Required packages: CSV, DataFrames, DifferentialEquations, NBInclude, PyPlot, Trapz (for DRC only: DiffEqSensitivity, ForwardDiff)
+#### Required packages: 
+  CSV, DataFrames, DifferentialEquations, NBInclude, PyPlot, Trapz. To run the DRC analysis using automatic differentiation, DiffEqSensitivity and ForwardDiff are also required.
+
+
+#### Running the code:
+  All functions are contained in the `Base_OER_Functs.jl` file. These functions can be called in the Julia REPL or a Jupyter notebook to generate data. 
+  For v1.0, we have included `Run_OER_Sims.ipynb`, a Jupyter notebook that contains an example of each type of simulation contained in the manuscript. 
