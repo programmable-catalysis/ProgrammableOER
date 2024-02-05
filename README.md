@@ -13,6 +13,7 @@ title = {Dynamic Promotion of the Oxygen Evolution Reaction via Programmable Met
 year = {2024}
 }
 ```
+This work was supported as part of the Center for Programmable Energy Catalysis, an Energy Frontier Research Center funded by the U.S. Department of Energy, Office of Science, Basic Energy Sciences at the University of Minnesota under award #DE-SC0023464.
 
 
 
