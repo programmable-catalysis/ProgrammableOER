@@ -13,6 +13,8 @@ title = {Dynamic Promotion of the Oxygen Evolution Reaction via Programmable Met
 year = {2024}
 }
 ```
+
+#### Funding Acknowledgement
 This work was supported as part of the Center for Programmable Energy Catalysis, an Energy Frontier Research Center funded by the U.S. Department of Energy, Office of Science, Basic Energy Sciences at the University of Minnesota under award #DE-SC0023464.
 
 
@@ -26,4 +28,4 @@ This code was written in Julia 1.8.4 and has not been tested for compatability w
 
 #### Running the code:
   All functions are contained in the `Base_OER_Functs.jl` file. These functions can be called in the Julia REPL or a Jupyter notebook to generate data. 
-  For v1.0, we have included `Run_OER_Sims.ipynb`, a Jupyter notebook that contains an example of each type of simulation contained in the manuscript. 
+  For v1.0, we have included `Run_OER_Sims.ipynb`, a Jupyter notebook that contains an example of each type of simulation in the manuscript. 
